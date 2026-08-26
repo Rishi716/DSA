@@ -10,7 +10,7 @@ class Solution {
         else l=mid+1;
         
        }
-       return l+k;
+       return h+1+k;
 
     }
 }
